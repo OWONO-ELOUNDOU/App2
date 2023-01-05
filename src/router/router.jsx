@@ -9,7 +9,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { createStackNavigator } from "react-navigation-stack";
 
 /*
-const homeStack = createNavigationStack({
+const homeStack = createStackNavigation({
     home: {
         screen: homeScreen,
     }
